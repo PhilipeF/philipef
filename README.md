@@ -10,8 +10,9 @@
  -- 🏡 Listening to music, podcasts, watching shows, movies, soccer, basketball, read good book, practice physical activities and travel are some of my hobbies;
 
  📲 <b> Contact me </b>
-
- <a href="mailto:philipsferreiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<br>
+<br>
+ <a href="mailto:philipesferreiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/philipe-ferreira-60696388/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
