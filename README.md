@@ -1,7 +1,7 @@
-###  Hi there!  Welcome to my GitHub profile!
+<h1 align='center'>  Hi there! 👋  Welcome to my GitHub profile! </h1>
 
----
-I'm Philipe, passionate about technology and everything it gives us.
+
+<h3 align='center'> I'm Philipe, passionate about technology and everything it gives us. </h3>
 
 ## 👨‍💻 About me
 
