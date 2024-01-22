@@ -5,7 +5,7 @@
 
  👨‍💻 <b>About me</b>
 
- -- 💻 Currently studying and expanding my knowledge in Frontend Web Development practicing HTML, CSS, JavaScript using React.js with Typescript. Learning more about NodeJS for application backend and also study performance optimization for a better user experience (UX); 
+ -- 💻 Currently studying and expanding my knowledge in Frontend Web Development practicing HTML, CSS, JavaScript using React.js with Typescript. Learning more about Node.js for application backend and also study performance optimization for a better user experience (UX); 
 
  -- 🏡 Listening to music, podcasts, watching shows, movies, soccer, basketball, read good book, practice physical activities and travel are some of my hobbies;
 
